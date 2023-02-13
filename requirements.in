@@ -1,0 +1,7 @@
+celery[tblib]
+fastapi
+gevent
+pydantic
+redis
+requests
+uvicorn[standard]
